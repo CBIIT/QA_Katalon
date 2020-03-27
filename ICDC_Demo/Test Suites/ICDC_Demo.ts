@@ -16,4 +16,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Test_Browsing</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>5239d086-a4d7-4c7e-8312-5badd8c5297f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test_Browsing_Failure</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
